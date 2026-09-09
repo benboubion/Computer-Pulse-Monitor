@@ -23,7 +23,7 @@ cd Computer-Pulse-Monitor/pulse-monitor
 
 ## Step 2: Set Up a Virtual Environment
 
-It is best practice to run Python applications inside an isolated virtual environment to avoid dependency conflicts. Can skip thi
+It is best practice to run Python applications inside an isolated virtual environment to avoid dependency conflicts, however it is not required.
 
 * **On macOS / Linux:**
   ```bash
