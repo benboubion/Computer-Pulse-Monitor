@@ -1,15 +1,10 @@
 # Setup & Installation Guide
 
-Welcome to the **Computer Pulse Monitor** repository! This guide provides step-by-step instructions for downloading, setting up, and running the application locally on your machine.
-
----
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 * **Python** (Version 3.8 or higher)
 * **Git** (For cloning the repository)
-* A modern web browser (Chrome, Firefox, Edge, or Safari)
 
 ---
 
@@ -28,7 +23,7 @@ cd Computer-Pulse-Monitor/pulse-monitor
 
 ## Step 2: Set Up a Virtual Environment
 
-It is best practice to run Python applications inside an isolated virtual environment to avoid dependency conflicts.
+It is best practice to run Python applications inside an isolated virtual environment to avoid dependency conflicts. Can skip thi
 
 * **On macOS / Linux:**
   ```bash
@@ -70,11 +65,7 @@ You should see output in your terminal indicating that the server is running (e.
 
 Open your web browser and navigate to the local server address provided by the application:
 
-```text
-http://127.0.0.1:5000
-```
-
-You will now see your live system telemetry, CPU/memory metrics, and performance pipeline visualizer running in real time!
+You will now see your live system telemetry, CPU/memory metrics, and performance pipeline visualizer running in real time.
 
 ---
 
