@@ -73,7 +73,3 @@ The backend server (`app.py`) exposes the following endpoints:
 | `/api/process/kill` | `POST` | Safely requests process termination. Body payload: `{"pid": <PID>}`. |
 
 ---
-
-## License
-
-MIT License. Free for open source, personal, and commercial usage.
